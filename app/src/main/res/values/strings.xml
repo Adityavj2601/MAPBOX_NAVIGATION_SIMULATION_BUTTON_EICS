@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Button_map</string>
+    <string name="access_token" translatable="false">pk.eyJ1Ijoicm9oYW5odW5kaWEiLCJhIjoiY2sycnMzMGdvMHF4eDNkcWIza2lvNThjbSJ9.EtQ8g2J9Bya2BMwionNrbA</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="new_location">new</string>
+
+</resources>
